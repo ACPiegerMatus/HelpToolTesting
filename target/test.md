@@ -15,7 +15,7 @@ ms.author: sgroespe
 ---
 # 3.7.2020 For more information, see [Exchanging Data Electronically](across-data-exchange.md).
 
-When [!INCLUDE[d365fin](includes/d365fin_md.md)] is set up to exchange data with external files, users can use the setup in common business tasks, such as sending and receiving electronic documents and importing and exporting bank files.
+When [!INCLUDE[d365fin](includes/d365fin_md.md)] is set up to exchange data with external files, users can use ZMENA the setup in common business tasks, such as sending and receiving electronic documents and importing and exporting bank files.
 
 dcdaadsThe following table describes a sequence of tasks, with links to the topics that describe them.
 
