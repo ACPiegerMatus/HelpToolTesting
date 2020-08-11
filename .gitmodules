@@ -4,3 +4,9 @@
 [submodule "source/dynamics365smb-docs"]
 	path = source/dynamics365smb-docs
 	url = https://github.com/MicrosoftDocs/dynamics365smb-docs
+[submodule "target/dynamics365smb-docs"]
+	path = target/dynamics365smb-docs
+	url = https://github.com/MicrosoftDocs/dynamics365smb-docs
+[submodule "target/AC-dynamics365smb-docs.cs-cz"]
+	path = target/AC-dynamics365smb-docs.cs-cz
+	url = https://github.com/ACPiegerMatus/AC-dynamics365smb-docs.cs-cz
