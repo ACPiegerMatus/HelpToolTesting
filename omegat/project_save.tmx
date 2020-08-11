@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="O aplikaci OO" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;Data Exchange Framework &amp;#45; Export&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Franek" changedate="20200304T145127Z" creationid="Franek" creationdate="20200303T113950Z">
+        <seg>ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffcscscscscscscsk &amp;#45; Export&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;Data Exchange Framework &amp;#45; Import&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Franek" changedate="20200303T113947Z" creationid="Franek" creationdate="20200303T113947Z">
+        <seg>&lt;x1/&gt;Data Exchange Framewcscscscscsork &amp;#45; Import&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;Exchanging Data Electronically&lt;x2/&gt;
+&lt;x3/&gt;Use XML Schemas to Prepare Data Exchange Definitions&lt;x4/&gt;
+&lt;x5/&gt;Setting Up Data Exchange&lt;x6/&gt;
+&lt;x7/&gt;Exchanging Data&lt;x8/&gt;
+&lt;x9/&gt;Incoming Documents&lt;x10/&gt;
+&lt;x11/&gt;General Business Functionality&lt;x12/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Franek" changedate="20200304T145133Z" creationid="Franek" creationdate="20200303T114009Z">
+        <seg>fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff&lt;x7/&gt;Exchangincsg Data&lt;x8/&gt;
+&lt;x9/&gt;ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffral Bucssiness Functionality&lt;x12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;See&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="sunavcova" changedate="20200303T101250Z" creationid="sunavcova" creationdate="20200303T101250Z">
+        <seg>adsadas&lt;x1/&gt;See&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;Send Electronic Documents&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="sunavcova" changedate="20200303T101254Z" creationid="sunavcova" creationdate="20200303T101254Z">
+        <seg>xxycxyc&lt;x1/&gt;Send Electronic Documents&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;x1/&gt;To&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="sunavcova" changedate="20200303T101249Z" creationid="sunavcova" creationdate="20200303T101249Z">
+        <seg>sdsadsa&lt;x1/&gt;To&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A document exchange service provider dispatches electronic documents between trading partners.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="sunavcova" changedate="20200311T122959Z" creationid="sunavcova" creationdate="20200311T122959Z">
+        <seg>a medzi tym sa zmeni source ... :D :D </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>About the Data Exchange Framework in [!INCLUDE&lt;x1/&gt;d365fin&lt;x2/&gt;]</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Franek" changedate="20200306T085606Z" creationid="Franek" creationdate="20200303T104651Z">
+        <seg>HLAVNÍ TESTOVACÍ ZMĚN, KTERÁ SE NEJPRVE PROMÍTNE V TM A POZDĚJI V MARKDOWNECH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before you can send and receive electronic documents or import and export bank files, you must set up the data exchange framework to process the data files or streams.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="sunavcova" changedate="20200303T101110Z" creationid="sunavcova" creationdate="20200303T101110Z">
+        <seg>fdsagdstrdBefore you can send and receive electronic documents or import and export bank files, you must set up the data exchange framework to process the data files or streams.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before you can send and receive electronic documents or import and export bank files, you must set up the data exchange framework to process the involved files.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="sunavcova" changedate="20200304T154437Z" creationid="sunavcova" creationdate="20200304T154437Z">
+        <seg>BNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Convert sales document records in [!INCLUDE&lt;x1/&gt;d365fin&lt;x2/&gt;] to a standardized format and send them as electronic documents that your customers can receive into their system.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="sunavcova" changedate="20200303T101252Z" creationid="sunavcova" creationdate="20200303T101252Z">
+        <seg>dadadadaConvert sales document records in [!INCLUDE&lt;x1/&gt;d365fin&lt;x2/&gt;] to a standardized format and send them as electronic documents that your customers can receive into their system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exchanging Data</seg>
+      </tuv>
+      <tuv lang="CS" changeid="sunavcova" changedate="20200303T101105Z" creationid="sunavcova" creationdate="20200303T101105Z">
+        <seg>zmena zmena zmne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exchanging Data Electronically</seg>
+      </tuv>
+      <tuv lang="CS" changeid="sunavcova" changedate="20200702T112758Z" creationid="sunavcova" creationdate="20200303T134435Z">
+        <seg>Zmena Zmena 2.7.2020 Exchanging Data Electronically</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information, see &lt;x1/&gt;Setting Up Data Exchange&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="sunavcova" changedate="20200303T105014Z" creationid="sunavcova" creationdate="20200303T101244Z">
+        <seg>bkdsvfidsfdsyfysfysdfytrdsdadsadsdadaalalalalaFor more information, see &lt;x1/&gt;Setting Up Data Exchange&lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information, see &lt;x3/&gt;Exchanging Data Electronically&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Franek" changedate="20200304T145141Z" creationid="Franek" creationdate="20200304T145141Z">
+        <seg>fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more information, see &lt;x3/&gt;Set Up a Document Exchange Service&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="sunavcova" changedate="20200311T122912Z" creationid="sunavcova" creationdate="20200311T122912Z">
+        <seg>prekladaaaaaamtralalalalalalalallalalalalla &lt;x3/&gt;Set Up a Document Exchange Service&lt;x4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you create general journal lines from incoming document records, you must specify on the &lt;x1/&gt;Incoming Documents Setup&lt;x2/&gt; page which journal template and batch to use.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="sunavcova" changedate="20200304T153541Z" creationid="sunavcova" creationdate="20200304T153541Z">
+        <seg>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you do not want users to create invoices or general journal lines from incoming document records unless the documents are first approved, you must set up approvers on the &lt;x1/&gt;Incoming Document Approvers&lt;x2/&gt; page.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="sunavcova" changedate="20200304T153619Z" creationid="sunavcova" creationdate="20200304T153619Z">
+        <seg>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition, you must set up related areas, such as the customers that you send electronic invoices to, or the AMC Banking 365 Fundamentals extension if you use the external service provider to convert your bank files.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="sunavcova" changedate="20200304T162851Z" creationid="sunavcova" creationdate="20200304T154539Z">
+        <seg> sakra totoNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the generic version of [!INCLUDE&lt;x1/&gt;d365fin&lt;x2/&gt;], a document exchange service is preconfigured and ready to be set up for your company.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="sunavcova" changedate="20200304T144108Z" creationid="sunavcova" creationdate="20200304T144108Z">
+        <seg>nikuska toto tuna ymenila 4.3.2020.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Send Electronic Documents</seg>
+      </tuv>
+      <tuv lang="CS" changeid="sunavcova" changedate="20200311T122920Z" creationid="sunavcova" creationdate="20200303T141339Z">
+        <seg>prekladaaaaaammmmmmm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Send PDF or image files to a provider of OCR services, and receive them back as electronic documents that can be converted to document records in [!INCLUDE&lt;x1/&gt;d365fin&lt;x2/&gt;].</seg>
+      </tuv>
+      <tuv lang="CS" changeid="sunavcova" changedate="20200303T101255Z" creationid="sunavcova" creationdate="20200303T101255Z">
+        <seg>ycycycSend PDF or image files to a provider of OCR services, and receive them back as electronic documents that can be converted to document records in [!INCLUDE&lt;x1/&gt;d365fin&lt;x2/&gt;].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set Up Incoming Documents</seg>
+      </tuv>
+      <tuv lang="CS" changeid="sunavcova" changedate="20200304T153524Z" creationid="sunavcova" creationdate="20200304T153524Z">
+        <seg>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Setting Up Data Exchange</seg>
+      </tuv>
+      <tuv lang="CS" changeid="sunavcova" changedate="20200304T162914Z" creationid="sunavcova" creationdate="20200304T154426Z">
+        <seg>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN sakra toto je moja nova zmena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following diagrams show the architecture of the data exchange framework.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Franek" changedate="20200304T145136Z" creationid="Franek" creationdate="20200303T113944Z">
+        <seg>ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following table describes a sequence of tasks, with links to the topics that describe them.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="sunavcova" changedate="20200303T101247Z" creationid="sunavcova" creationdate="20200303T101247Z">
+        <seg>dcdaadsThe following table describes a sequence of tasks, with links to the topics that describe them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The format of files for exchange of data in bank files, electronic documents, currency exchange rates, and other with ERP systems vary depending on the provider of the data file or stream and on the country/region.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Franek" changedate="20200304T145124Z" creationid="Franek" creationdate="20200303T104905Z">
+        <seg>ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The generic version of [!INCLUDE&lt;x1/&gt;d365fin&lt;x2/&gt;] supports sending electronic invoices and credit memos in the PEPPOL format, which is supported by the largest document exchange service providers.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="sunavcova" changedate="20200311T122939Z" creationid="sunavcova" creationdate="20200311T122939Z">
+        <seg>ale uz sa mi nechce a chcem to zavriet tak dam len CTRL S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To provide support for other electronic document formats, you use the data exchange framework.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Franek" changedate="20200304T145104Z" creationid="sunavcova" creationdate="20200303T105250Z">
+        <seg>FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFovide support for other electronic document formats, you use the data exchange framework.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can exchange data between [!INCLUDE&lt;x1/&gt;d365fin&lt;x2/&gt;] and external files or streams in connection with common business tasks, such as sending and receiving electronic documents and importing and exporting bank files.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="sunavcova" changedate="20200303T101238Z" creationid="sunavcova" creationdate="20200303T101238Z">
+        <seg>traalalalalalalallalaa</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
