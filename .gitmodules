@@ -1,0 +1,3 @@
+[submodule "source/HelpToolTestingSource"]
+	path = source/HelpToolTestingSource
+	url = https://github.com/ACPiegerMatus/HelpToolTestingSource
