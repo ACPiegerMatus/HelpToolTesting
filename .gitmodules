@@ -1,3 +1,6 @@
 [submodule "source/HelpToolTestingSource"]
 	path = source/HelpToolTestingSource
 	url = https://github.com/ACPiegerMatus/HelpToolTestingSource
+[submodule "source/dynamics365smb-docs"]
+	path = source/dynamics365smb-docs
+	url = https://github.com/MicrosoftDocs/dynamics365smb-docs
